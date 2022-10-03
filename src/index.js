@@ -10,3 +10,4 @@ export const findElement = () => {
     }
     li.style.backgroundColor = `blue`;
 };
+
